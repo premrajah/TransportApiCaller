@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransportApiCaller": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\_devserver\\worksandbox\\CTDigitalSignage\\data"
+    }
+  }
+}
